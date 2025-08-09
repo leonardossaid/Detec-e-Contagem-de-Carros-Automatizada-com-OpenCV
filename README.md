@@ -1,4 +1,4 @@
-# # # 🚗 **Detecção e Contagem de Carros Automatizada com OpenCV**
+# # 🚗 **Detecção e Contagem de Carros Automatizada com OpenCV**
 
 Este repositório apresenta um projeto de visão computacional que implementa a **detecção e contagem de veículos** em vídeos utilizando a biblioteca OpenCV. Ele demonstra conceitos fundamentais de processamento de imagens e manipulação de vídeos, sendo um ponto de partida ideal para aplicações em monitoramento de tráfego e análise de fluxo veicular.
 
