@@ -1,10 +1,10 @@
-# # 🚗 **Detecção e Contagem de Carros Automatizada com OpenCV**
+# # # 🚗 **Detecção e Contagem de Carros Automatizada com OpenCV**
 
 Este repositório apresenta um projeto de visão computacional que implementa a **detecção e contagem de veículos** em vídeos utilizando a biblioteca OpenCV. Ele demonstra conceitos fundamentais de processamento de imagens e manipulação de vídeos, sendo um ponto de partida ideal para aplicações em monitoramento de tráfego e análise de fluxo veicular.
 
 ---
 
-## 📋 **Descrição do Projeto**
+### 📋 **Descrição do Projeto**
 
 O objetivo deste projeto é identificar e contar veículos em movimento em vídeos. Ele utiliza técnicas de segmentação de plano de fundo, filtros morfológicos e contornos para detectar os veículos e manter a contagem precisa.
 
@@ -16,7 +16,7 @@ O objetivo deste projeto é identificar e contar veículos em movimento em víde
 
 ---
 
-## 🛠️ **Tecnologias Utilizadas**
+### 🛠️ **Tecnologias Utilizadas**
 
 - **Linguagem**: Python
 - **Bibliotecas**:
@@ -25,7 +25,7 @@ O objetivo deste projeto é identificar e contar veículos em movimento em víde
 
 ---
 
-## ⚙️ Como Executar o Projeto
+### ⚙️ Como Executar o Projeto
 
 1. **Clone este repositório:**
 ```bash
@@ -53,7 +53,7 @@ VIDEO = "caminho/para/seu/video.mp4"
 
 ---
 
-## 🚀 Próximos Passos
+### 🚀 Próximos Passos
 
 - Aprimorar a acurácia da detecção utilizando algoritmos de Deep Learning, como YOLO ou SSD.
 - Adicionar suporte a vídeos ao vivo (ex.: câmeras de tráfego).
@@ -61,7 +61,7 @@ VIDEO = "caminho/para/seu/video.mp4"
 
 ---
 
-## 📂 Estrutura do Repositório
+### 📂 Estrutura do Repositório
 ```
 ├── src/                     # Código-fonte do projeto
 │   ├── detecção_carros.py   # Script principal
@@ -73,13 +73,13 @@ VIDEO = "caminho/para/seu/video.mp4"
 ```
 ---
 
-## 🤝 Contribuições
+### 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou novas ideias para o projeto.
 
 ---
 
-## 📧 Contato
+### 📧 Contato
 
-# E-mail: leonardosanderson.68@gmail.com 
-# LinkedIn: https://www.linkedin.com/in/leonardo-said1/
+- E-mail: leonardosanderson.68@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/leonardo-said1/
