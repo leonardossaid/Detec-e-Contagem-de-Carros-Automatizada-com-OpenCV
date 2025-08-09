@@ -81,5 +81,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## 📧 Contato
 
-E-mail: leonardosanderson.68@gmail.com 
-LinkedIn: https://www.linkedin.com/in/leonardo-said1/
+# E-mail: leonardosanderson.68@gmail.com 
+# LinkedIn: https://www.linkedin.com/in/leonardo-said1/
