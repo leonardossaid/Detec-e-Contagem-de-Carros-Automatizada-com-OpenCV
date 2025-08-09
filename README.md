@@ -81,7 +81,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## 📧 Contato
 
-Se tiver dúvidas ou sugestões, entre em contato:
-Nome: [Seu Nome]
-E-mail: [seu-email@example.com]
-LinkedIn: Seu LinkedIn
+E-mail: leonardosanderson.68@gmail.com
+LinkedIn: https://www.linkedin.com/in/leonardo-said1/
